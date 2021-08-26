@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(11, 97, 146, 0.623);
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.header {
+text-align: center;
+}
+
+img {
+    
+    height: 250px;
+    width: 400px;
+}
+
